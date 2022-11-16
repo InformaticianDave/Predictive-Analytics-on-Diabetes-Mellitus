@@ -52,6 +52,7 @@ near future. That’s why our project is focus.
 [6] Nanditha A, Ma RCW, Ramachandran A, et al. Diabetes in Asia and the Pacific: Implications for the Global Epidemic. Diabetes Care 2016;39:472–85. doi:10.2337/dc15-1536
 
 Results/Future:
+
 ![GaussianNB](https://user-images.githubusercontent.com/50633694/202092972-e485f27c-4bab-42fb-85d6-bcc684945d3b.png)
 
 ![KNeighborsClassifier](https://user-images.githubusercontent.com/50633694/202092997-39fafe2a-372f-4f5e-9fb7-0ae1b175824c.png)
