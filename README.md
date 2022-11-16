@@ -53,11 +53,24 @@ near future. That’s why our project is focus.
 
 Results/Future:
 
+
+Accuracy of GaussianNB: 87.18%
+
+
 ![GaussianNB](https://user-images.githubusercontent.com/50633694/202092972-e485f27c-4bab-42fb-85d6-bcc684945d3b.png)
+
+Accuracy of KNeighborsClassifier: 90.71%
+
 
 ![KNeighborsClassifier](https://user-images.githubusercontent.com/50633694/202092997-39fafe2a-372f-4f5e-9fb7-0ae1b175824c.png)
 
+Accuracy of LogisticRegrsssion: 91.35%
+
+
 ![Logistical_Regression](https://user-images.githubusercontent.com/50633694/202093012-0ee5c500-3bbe-4c04-9d1a-e70935007246.png)
+
+Accuracy of RandomForestClassifier: 96.79%
+
 
 ![RandomForestClassifier](https://user-images.githubusercontent.com/50633694/202093032-4a4f42a7-81bc-41a6-95e0-77462c758cf3.png)
 
