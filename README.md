@@ -52,6 +52,16 @@ near future. That’s why our project is focus.
 [6] Nanditha A, Ma RCW, Ramachandran A, et al. Diabetes in Asia and the Pacific: Implications for the Global Epidemic. Diabetes Care 2016;39:472–85. doi:10.2337/dc15-1536
 
 Results/Future:
+![GaussianNB](https://user-images.githubusercontent.com/50633694/202092972-e485f27c-4bab-42fb-85d6-bcc684945d3b.png)
+
+![KNeighborsClassifier](https://user-images.githubusercontent.com/50633694/202092997-39fafe2a-372f-4f5e-9fb7-0ae1b175824c.png)
+
+![Logistical_Regression](https://user-images.githubusercontent.com/50633694/202093012-0ee5c500-3bbe-4c04-9d1a-e70935007246.png)
+
+![RandomForestClassifier](https://user-images.githubusercontent.com/50633694/202093032-4a4f42a7-81bc-41a6-95e0-77462c758cf3.png)
+
+![ROC Curve](https://user-images.githubusercontent.com/50633694/202093047-f10a9441-1545-4a02-863e-9376257eee5a.png)
+
 The random forest algorithm creates numerous decision trees and blends them together, producing a more 
 accurate and reliable prediction. The accuracy attained is statistically significant. Decision boundaries can be 
 ascertained by splitting the data set to more manageable components.
